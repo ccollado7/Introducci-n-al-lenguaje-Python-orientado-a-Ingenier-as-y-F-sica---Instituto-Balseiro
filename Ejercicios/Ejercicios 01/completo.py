@@ -1,0 +1,5 @@
+print("Hola, por primera vez")
+print("Hola, hoy es mi dia de escribir frases intrascendentes")
+print("Hola, nuevamente, y espero que por ultima vez")
+print("E = mc2")
+print("Adios")
